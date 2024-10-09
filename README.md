@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MbeddedCoder
+- 👋 Hi, I’m @DakshParekh27
 - 👀 I’m interested in problem solving for society.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on any interesting idea.
